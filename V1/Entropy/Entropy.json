@@ -3,16 +3,19 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 11,
-    "Container1": 12,
+    "Button2": 21,
+    "Button3": 24,
     "Container2": 15,
+    "Encabezado": 12,
     "Host": 3,
     "Image3": 16,
-    "Screen1": 4
+    "Nuevo Registro": 23,
+    "Screen1": 4,
+    "Ver Detalle": 19
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/27/2023 18:40:55",
+  "HeaderLastSavedDateTimeUTC": "09/27/2023 19:07:04",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -31,29 +34,35 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 0,
-    "groupContainer": 1,
-    "image": 2
+    "button": 2,
+    "groupContainer": 0,
+    "image": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
-    "Button1": {},
-    "Container1": {},
+    "Button2": {},
+    "Button3": {},
     "Container2": {},
+    "Encabezado": {},
     "Host": {},
     "Image3": {},
-    "Screen1": {}
+    "Nuevo Registro": {},
+    "Screen1": {},
+    "Ver Detalle": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 0,
-    "Container1": 0,
-    "Container2": 0,
+    "Button2": 6,
+    "Button3": 4,
+    "Container2": 1,
+    "Encabezado": 0,
     "Host": 0,
-    "Image3": 0,
-    "Screen1": 0
+    "Image3": 2,
+    "Nuevo Registro": 3,
+    "Screen1": 0,
+    "Ver Detalle": 5
   },
   "ResourcesJsonIndices": {
     "Image-Logo Horizontal Texto Blanco1": 0,
@@ -64,7 +73,9 @@
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0172518,
-    "ControlCount": {}
+    "ControlCount": {
+      "button": 2
+    }
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
