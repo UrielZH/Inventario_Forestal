@@ -2091,7 +2091,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Nuevo Registro",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2346,7 +2346,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Ver Detalle",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
