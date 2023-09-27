@@ -49,8 +49,8 @@ Screen1 As screen:
         RadiusTopLeft: =4
         RadiusTopRight: =4
         Width: =280
-        X: =70
-        Y: =484
+        X: =180
+        Y: =689
         ZIndex: =5
 
         Button2 As button:
@@ -88,8 +88,8 @@ Screen1 As screen:
         RadiusTopLeft: =4
         RadiusTopRight: =4
         Width: =280
-        X: =70
-        Y: =694
+        X: =180
+        Y: =801
         ZIndex: =6
 
         Button3 As button:
@@ -117,4 +117,65 @@ Screen1 As screen:
             Text: ="Registro Nuevo"
             Width: =280
             ZIndex: =1
+
+    Container3 As groupContainer.manualLayoutContainer:
+        Height: =420
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        X: =70
+        Y: =187
+        ZIndex: =7
+
+        Container4 As groupContainer.manualLayoutContainer:
+            Height: =57
+            RadiusBottomLeft: =4
+            RadiusBottomRight: =4
+            RadiusTopLeft: =4
+            RadiusTopRight: =4
+            Y: =363
+            ZIndex: =1
+
+            Label2 As label:
+                Align: =Align.Center
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(0, 0, 0, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                FontWeight: =FontWeight.Bold
+                Height: =57
+                Size: =21
+                Text: ="Control de Inventario"
+                Width: =500
+                ZIndex: =1
+
+        Container5 As groupContainer.manualLayoutContainer:
+            Height: =363
+            RadiusBottomLeft: =4
+            RadiusBottomRight: =4
+            RadiusTopLeft: =4
+            RadiusTopRight: =4
+            ZIndex: =2
+
+            Image1 As image:
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledFill: =RGBA(0, 0, 0, 0)
+                FocusedBorderThickness: =4
+                Height: =363
+                HoverBorderColor: =RGBA(0, 0, 0, 0)
+                HoverFill: =RGBA(0, 0, 0, 0)
+                Image: =Arbol
+                ImagePosition: =ImagePosition.Stretch
+                PressedBorderColor: =RGBA(0, 0, 0, 0)
+                PressedFill: =RGBA(0, 0, 0, 0)
+                Width: =500
+                ZIndex: =1
 

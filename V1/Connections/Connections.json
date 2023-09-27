@@ -1,26 +1,4 @@
 {
-  "1cef378a-2f67-4e81-91e4-1403813c52ca": {
-    "connectionRef": {
-      "displayName": "SharePoint",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1656/1.0.1656.3432/sharepointonline/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
-    },
-    "datasets": {
-      "https://canopiacarbon918.sharepoint.com/sites/intranet": {
-        "dataSources": {
-          "inventario_mrv": {
-            "tableName": "74117c8c-46a9-4157-81fd-2f7c5cf2ad45"
-          }
-        }
-      }
-    },
-    "dataSources": [
-      "inventario_mrv"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "1cef378a-2f67-4e81-91e4-1403813c52ca"
-  },
   "467a4d0a-cae1-40e8-9c79-dbd61c245cbd": {
     "connectionRef": {
       "displayName": "SharePoint",
