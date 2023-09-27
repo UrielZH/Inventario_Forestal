@@ -4,10 +4,13 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 11,
+    "Container1": 12,
+    "Container2": 15,
     "EditForm1": 10,
     "Host": 3,
     "IconAccept1": 8,
     "IconCancel1": 7,
+    "Image3": 16,
     "LblAppName1": 9,
     "RectQuickActionBar1": 6,
     "Screen1": 4,
@@ -15,12 +18,18 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/27/2023 18:34:57",
+  "HeaderLastSavedDateTimeUTC": "09/27/2023 18:39:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "Logo Horizontal Texto Blanco1": "e70ae64d-6aad-4413-90aa-53e3745a8377.png",
+    "Logo Horizontal Texto Verde": "6b0bef5a-04f4-446b-af1d-cb20949e8f2f.png"
+  },
+  "LocalResourceRootPaths": {
+    "Logo Horizontal Texto Blanco1": "https://docserverpwaprodwus.blob.core.windows.net/e1e90997-6256-43b6-a48e-7632a6ea67e0-1/resource/0fd310e6-3833-4e8b-a9d3-2b162d571ca9.png?sv=2018-03-28&sr=b&sig=7wLuFHgPqzLvZ7HRuZbK%2Fz8nm3aPHy9XC8e3D%2F%2BLSOw%3D&spr=https&se=2023-09-28T18%3A53%3A12Z&sp=r",
+    "Logo Horizontal Texto Verde": "https://docserverpwaprodwus.blob.core.windows.net/e1e90997-6256-43b6-a48e-7632a6ea67e0-1/resource/87bed0d2-a8c5-4356-8995-9e11b0286058.png?sv=2018-03-28&sr=b&sig=iglRRmi9Aayr1FguIRcfjH32wMhi9wzrnhRlhn%2BGNeE%3D&spr=https&se=2023-09-28T18%3A53%3A24Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -29,18 +38,23 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "form": 4,
-    "icon": 2,
-    "label": 3,
-    "rectangle": 1
+    "form": 6,
+    "groupContainer": 1,
+    "icon": 4,
+    "image": 2,
+    "label": 5,
+    "rectangle": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
+    "Container1": {},
+    "Container2": {},
     "EditForm1": {},
     "Host": {},
     "IconAccept1": {},
     "IconCancel1": {},
+    "Image3": {},
     "LblAppName1": {},
     "RectQuickActionBar1": {},
     "Screen1": {},
@@ -51,16 +65,23 @@
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Container1": 0,
+    "Container2": 0,
     "EditForm1": 5,
     "Host": 0,
     "IconAccept1": 4,
     "IconCancel1": 2,
+    "Image3": 0,
     "LblAppName1": 3,
     "RectQuickActionBar1": 1,
     "Screen1": 0,
     "Screen2": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-Logo Horizontal Texto Blanco1": 0,
+    "Image-Logo Horizontal Texto Verde": 2,
+    "Image-SampleImage": 1
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
