@@ -1,0 +1,11 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="Hola"
+        Width: =280
+        X: =160
+        Y: =422
+        ZIndex: =1
+
