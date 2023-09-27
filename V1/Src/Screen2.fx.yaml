@@ -4,6 +4,7 @@ Screen2 As screen:
     Form1 As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: =inventario_mrv_1
+        DefaultMode: =FormMode.New
         Height: =1036
         Width: =640
         Y: =40
