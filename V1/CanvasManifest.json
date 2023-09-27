@@ -114,7 +114,7 @@
     "Id": "3225ac6c-2db1-4392-81ec-e87096a3b516",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Inventario Forestal",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
