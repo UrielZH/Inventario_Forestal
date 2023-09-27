@@ -3,29 +3,36 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button2": 21,
-    "Button3": 24,
-    "Container2": 15,
-    "Encabezado": 12,
+    "Button2": 11,
+    "Button3": 9,
+    "Container2": 6,
+    "Container3": 14,
+    "Container4": 15,
+    "Container5": 17,
+    "Encabezado": 5,
     "Host": 3,
-    "Image3": 16,
-    "Nuevo Registro": 23,
+    "Image1": 18,
+    "Image3": 7,
+    "Label2": 16,
+    "Nuevo Registro": 8,
     "Screen1": 4,
-    "Ver Detalle": 19
+    "Ver Detalle": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/27/2023 19:07:04",
+  "HeaderLastSavedDateTimeUTC": "09/27/2023 19:25:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
+    "Arbol": "71f49506-9454-458a-b0fa-35f90a75b3b2.png",
     "Logo Horizontal Texto Blanco1": "e70ae64d-6aad-4413-90aa-53e3745a8377.png",
     "Logo Horizontal Texto Verde": "6b0bef5a-04f4-446b-af1d-cb20949e8f2f.png"
   },
   "LocalResourceRootPaths": {
-    "Logo Horizontal Texto Blanco1": "https://docserverpwaprodwus.blob.core.windows.net/e1e90997-6256-43b6-a48e-7632a6ea67e0-1/resource/0fd310e6-3833-4e8b-a9d3-2b162d571ca9.png?sv=2018-03-28&sr=b&sig=7wLuFHgPqzLvZ7HRuZbK%2Fz8nm3aPHy9XC8e3D%2F%2BLSOw%3D&spr=https&se=2023-09-28T18%3A53%3A12Z&sp=r",
-    "Logo Horizontal Texto Verde": "https://docserverpwaprodwus.blob.core.windows.net/e1e90997-6256-43b6-a48e-7632a6ea67e0-1/resource/87bed0d2-a8c5-4356-8995-9e11b0286058.png?sv=2018-03-28&sr=b&sig=iglRRmi9Aayr1FguIRcfjH32wMhi9wzrnhRlhn%2BGNeE%3D&spr=https&se=2023-09-28T18%3A53%3A24Z&sp=r"
+    "Arbol": "https://docserverpwaprodwus.blob.core.windows.net/68e8e2b0-16c5-4598-a923-0c7f23cb1d85-1/resource/654b8ad1-15c8-494f-8bc6-0e41b037c6b7.png?sv=2018-03-28&sr=b&sig=6GUaFsJRwKgbdTcaxzGNiDIvgCHTt%2BJT7gj85GhlquI%3D&spr=https&se=2023-09-28T19%3A39%3A24Z&sp=r",
+    "Logo Horizontal Texto Blanco1": "https://docserverpwaprodwus.blob.core.windows.net/68e8e2b0-16c5-4598-a923-0c7f23cb1d85-1/resource/Assets0Images0e70ae64d-6aad-4413-90aa-53e3745a8377.png?sv=2018-03-28&sr=b&sig=2Y8hZSXjRSobbgT%2BScyPANLcodH4OLLGf6b9BAe6Il8%3D&spr=https&se=2023-09-28T19%3A35%3A32Z&sp=r",
+    "Logo Horizontal Texto Verde": "https://docserverpwaprodwus.blob.core.windows.net/68e8e2b0-16c5-4598-a923-0c7f23cb1d85-1/resource/Assets0Images06b0bef5a-04f4-446b-af1d-cb20949e8f2f.png?sv=2018-03-28&sr=b&sig=CHWn1ssxeg1Mat4ALyFURpBm%2BaLlI7dC1DL7Ih8gYLU%3D&spr=https&se=2023-09-28T19%3A35%3A32Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -34,18 +41,24 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 2,
+    "button": 3,
     "groupContainer": 0,
-    "image": 1
+    "image": 1,
+    "label": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button2": {},
     "Button3": {},
     "Container2": {},
+    "Container3": {},
+    "Container4": {},
+    "Container5": {},
     "Encabezado": {},
     "Host": {},
+    "Image1": {},
     "Image3": {},
+    "Label2": {},
     "Nuevo Registro": {},
     "Screen1": {},
     "Ver Detalle": {}
@@ -57,14 +70,20 @@
     "Button2": 6,
     "Button3": 4,
     "Container2": 1,
+    "Container3": 0,
+    "Container4": 0,
+    "Container5": 0,
     "Encabezado": 0,
     "Host": 0,
+    "Image1": 0,
     "Image3": 2,
+    "Label2": 0,
     "Nuevo Registro": 3,
     "Screen1": 0,
     "Ver Detalle": 5
   },
   "ResourcesJsonIndices": {
+    "Image-Arbol": 3,
     "Image-Logo Horizontal Texto Blanco1": 0,
     "Image-Logo Horizontal Texto Verde": 2,
     "Image-SampleImage": 1
@@ -72,10 +91,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0172518,
+    "AnalysisLoadTime": 0.0601757,
     "ControlCount": {
-      "button": 2
-    }
+      "button": 2,
+      "groupContainer": 4,
+      "image": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.8117393
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
