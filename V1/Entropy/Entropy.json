@@ -6,19 +6,13 @@
     "Button1": 11,
     "Container1": 12,
     "Container2": 15,
-    "EditForm1": 10,
     "Host": 3,
-    "IconAccept1": 8,
-    "IconCancel1": 7,
     "Image3": 16,
-    "LblAppName1": 9,
-    "RectQuickActionBar1": 6,
-    "Screen1": 4,
-    "Screen2": 5
+    "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/27/2023 18:39:58",
+  "HeaderLastSavedDateTimeUTC": "09/27/2023 18:40:55",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -38,27 +32,17 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "form": 6,
     "groupContainer": 1,
-    "icon": 4,
-    "image": 2,
-    "label": 5,
-    "rectangle": 3
+    "image": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Container1": {},
     "Container2": {},
-    "EditForm1": {},
     "Host": {},
-    "IconAccept1": {},
-    "IconCancel1": {},
     "Image3": {},
-    "LblAppName1": {},
-    "RectQuickActionBar1": {},
-    "Screen1": {},
-    "Screen2": {}
+    "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -67,15 +51,9 @@
     "Button1": 0,
     "Container1": 0,
     "Container2": 0,
-    "EditForm1": 5,
     "Host": 0,
-    "IconAccept1": 4,
-    "IconCancel1": 2,
     "Image3": 0,
-    "LblAppName1": 3,
-    "RectQuickActionBar1": 1,
-    "Screen1": 0,
-    "Screen2": 0
+    "Screen1": 0
   },
   "ResourcesJsonIndices": {
     "Image-Logo Horizontal Texto Blanco1": 0,
